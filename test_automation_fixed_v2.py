@@ -26,7 +26,9 @@ PREVIOUS_PAPERS = "No"      # "Yes" or "No"
 
 # Model IDs can change. Use IDs available to your API accounts.
 GEMINI_MODEL = "gemini-3.8-flash"
-GROQ_MODEL = "llama-3.3-70b-versatile"
+
+GROQ_MODEL = "openai/gpt-oss-120b"
+
 
 
 # ============================================================
