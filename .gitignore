@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+playwright-report/
+test-results/
+abhyas_error_*.png
