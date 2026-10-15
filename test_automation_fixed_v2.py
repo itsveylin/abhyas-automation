@@ -19,7 +19,7 @@ URL = "https://abhyas.ai"
 
 SUBJECT = "ARITHMETIC"
 CHAPTER = "PERCENTAGE"
-QUESTION_COUNT = "20"       # Supported values: "10", "20", "30"
+QUESTION_COUNT = "30"       # Supported values: "10", "20", "30"
 DIFFICULTY = "Average"       # "Easy", "Average", "Difficult"
 TIME_PER_QUESTION = "2 Mins"
 PREVIOUS_PAPERS = "No"      # "Yes" or "No"
